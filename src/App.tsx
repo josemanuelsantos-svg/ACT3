@@ -4,7 +4,8 @@ import {
   Calendar, UtensilsCrossed, Ticket, History, 
   Lock, AlertCircle, Salad, Bot, BookOpen, Plus, Trash2,
   RefreshCw, WifiOff, ShieldCheck, Link2, HelpCircle, X,
-  Shapes, Backpack, Info, Edit3
+  Shapes, Backpack, Info, Edit3,
+  ScanSearch
 } from 'lucide-react';
 import { initializeApp } from "firebase/app";
 import { getAuth, signInAnonymously, signInWithCustomToken, onAuthStateChanged } from "firebase/auth";
